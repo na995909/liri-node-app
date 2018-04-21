@@ -15,8 +15,8 @@ do-what-it-says
 
 Type in node liri.js to get the instructions on how to enter the commands correctly. So if you were to type the below command you'd get the last 20 tweets I created (There may not be 20 tweets for me I just created an account)
 
--node liri.js spotify-this-song '<song name here>'
-  shows the following information about the song in the terminal:
+node liri.js spotify-this-song '<song name here>'
+shows the following information about the song in the terminal:
   
 
 *artist(s)
@@ -50,7 +50,7 @@ this would output the following information to the terminal:
 *Rotten Tomatoes URL
 
 
--node liri.js do-what-it-says
+node liri.js do-what-it-says
 
 These are the npm packages I used and are needed to run the app:
 
